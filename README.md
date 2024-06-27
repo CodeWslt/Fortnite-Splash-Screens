@@ -129,3 +129,24 @@ The splash screens included in this repo are created and copyrighted by Epic Gam
 | ------------------------------ | ---------------------                                |
 | Fortnite Splash Screen         | N/A                                                  |
 | EAC Splash Screen              | [Download](./Season%2021/SplashScreen_EAC.png)       |
+
+# Season 22
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | N/A                                                  |
+| EAC Splash Screen              | [Download](./Season%2022/SplashScreen_EAC.png)       |
+
+# Season 26
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | N/A                                                  |
+| EAC Splash Screen              | [Download](./Season%2026/SplashScreen_EAC.png)       |
+
+# Season 27
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2026/Splash.bmp)                 |
+| EAC Splash Screen              | N/A                                                  |

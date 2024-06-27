@@ -52,3 +52,10 @@ The splash screens included in this repo are created and copyrighted by Epic Gam
 | ------------------------------ | ---------------------                               |
 | Fortnite Splash Screen         | [Download](./Season%209/Splash.bmp)                 |
 | EAC Splash Screen              | [Download](./Season%209/SplashScreen_EAC.png)       |
+
+# Season 10
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2010/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2010/SplashScreen_EAC.png)       |

@@ -59,3 +59,73 @@ The splash screens included in this repo are created and copyrighted by Epic Gam
 | ------------------------------ | ---------------------                                |
 | Fortnite Splash Screen         | [Download](./Season%2010/Splash.bmp)                 |
 | EAC Splash Screen              | [Download](./Season%2010/SplashScreen_EAC.png)       |
+
+# Season 11
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2011/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2011/SplashScreen_EAC.png)       |
+
+# Season 12
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2012/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2012/SplashScreen_EAC.png)       |
+
+# Season 13
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2013/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2013/SplashScreen_EAC.png)       |
+
+# Season 14
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2014/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2014/SplashScreen_EAC.png)       |
+
+# Season 15
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2015/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2015/SplashScreen_EAC.png)       |
+
+# Season 16
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2016/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2016/SplashScreen_EAC.png)       |
+
+# Season 18
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | [Download](./Season%2018/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Season%2018/SplashScreen_EAC.png)       |
+
+# Season 19
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | N/A                                                  |
+| EAC Splash Screen              | [Download](./Season%2019/SplashScreen_EAC.png)       |
+
+# Season 20
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | N/A                                                  |
+| EAC Splash Screen              | [Download](./Season%2020/SplashScreen_EAC.png)       |
+
+# Season 21
+
+| Build                  	     | Download          	                                |
+| ------------------------------ | ---------------------                                |
+| Fortnite Splash Screen         | N/A                                                  |
+| EAC Splash Screen              | [Download](./Season%2021/SplashScreen_EAC.png)       |

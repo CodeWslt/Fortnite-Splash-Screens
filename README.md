@@ -11,6 +11,13 @@ The splash screens included in this repo are created and copyrighted by Epic Gam
 - [Wslt](https://github.com/CodeWslt)
 - [Delayed](https://github.com/delayedisback)
 
+# Current
+
+| Build                  	     | Download          	                               |
+| ------------------------------ | ---------------------                               |
+| Fortnite Splash Screen         | [Download](./Current/Splash.bmp)                 |
+| EAC Splash Screen              | [Download](./Current/SplashScreen_EAC.png)       |
+
 # Alpha
 
 | Build                  	     | Download          	                               |
